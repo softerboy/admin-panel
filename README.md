@@ -1,4 +1,8 @@
-# Sidebar
+---
+description: Highly customizable admin panel created with Vue.js
+---
+
+# Admin panel
 
 ## How to override menu items
 

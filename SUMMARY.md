@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Sidebar](README.md)
+* [Admin panel](README.md)
 * [Project setup](setup.md)
 
