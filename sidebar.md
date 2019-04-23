@@ -39,7 +39,10 @@ const menuItems = [{
       text: "Inner item 1"
   }, {
       id: 2,
-      text: "Inner item 2"
+      text: "Inner item 2",
+      onClick(item) {
+          console.log(`${item.text} clikced`)
+      }
   }, {
       id: 3,
       text: "Inner item 3"
